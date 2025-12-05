@@ -12,6 +12,7 @@
 - data/panel_data_for_RQ3.xlsx holds the data of panel regression for bug fix time.
 
 #for additional validation
+
 We provide the monthly counts of created and merged pull requests for each project as an indicator of active and sustained maintenance. Our dataset covers the complete lifecycle of vuejs/vue, which announced its development move to a new repository on December 31, 2023. Please note that data outside its lifecycle period was excluded from our panel regression models. All other projects in our sample remained actively developed and regularly maintained through May 2025. 
 
 
